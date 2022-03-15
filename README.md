@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @renpayero
+- 👀 I’m interested in develop mainly in python, but i love all lenguajes.
+- 🌱 I'm currently studying systems engineering and doing courses such as video game development
+- 💞️ I'm looking to collaborate on any interesting project that can nurture my knowledge
+- 📫 How to reach me ... renzopayero@hotmail.com/joolio8p@gmail.com
